@@ -102,3 +102,11 @@ CODE :-<br>
 
     return 0;
     }
+
+
+Output:-<br>
+![exp20](https://github.com/VandanGupte101727/CDS-experiment-20/blob/main/Screenshot%202024-10-08%20at%2012.31.33%20AM.png)<br>
+![exp20](https://github.com/VandanGupte101727/CDS-experiment-20/blob/main/Screenshot%202024-10-08%20at%2012.34.49%20AM.png)<br>
+![exp20](https://github.com/VandanGupte101727/CDS-experiment-20/blob/main/Screenshot%202024-10-08%20at%2012.41.16%20AM.png)<br>
+
+Conclusion:-in this experiment we learnt about the sorting algorithms.
